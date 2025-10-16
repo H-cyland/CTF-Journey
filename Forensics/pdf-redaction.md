@@ -1,6 +1,9 @@
-# Challange : Hidden PDF Flag 
-**Category:** Forensics 
-**Platform:** University of Warwick Cyber Security society
+# Challange : Hidden PDF Flag  
+
+**Category:** Forensics  
+
+**Platform:** University of Warwick Cyber Security society  
+
 **Date:** 10/10/2025 ~ 12/10/2025
 
 ## 1. Chanllenge Description 
