@@ -11,7 +11,8 @@ with **practical problem-solving skills** (from CTF and labs)
 ---
 
 ## About Me
-I'm a master's student in **Cyber Security Management** at the University of Warwick
+I'm a master's student in **Cyber Security Management** at the University of Warwick  
+
 My main interests include: 
 - Digital Forensics & Incident Response
 - Network Security & Threat Hunting
