@@ -1,10 +1,24 @@
-# CTF-Journey
-> Personal Log of Caputre The Flag (CTF) challenges and cybersecurity learning journey.
+# Security Reflections
+> Personal learning log combining **academic reflections** and **CTF write-ups**
 
 
-# About ME 
-> Cybersecurity master's student at the University of Warwick, passionate about Digital forensics, Network security, Open-source Intelligence (OSINT) and Threat hunting.
-> This repository documents my learning process through hands-on CTF challenges.
+# About This Repository
+This repository documents my continuous learning process in cybersecurity from university modules and self-reflections to hands-on practice through Capture The Flag (CTF) challenges.
+
+It aims to connect **theoretical understadning** (from academic coursework)
+with **practical problem-solving skills** (from CTF and labs)
+
+---
+
+## About Me
+I'm a master's student in **Cyber Security Management** at the University of Warwick
+My main interests include: 
+- Digital Forensics & Incident Response
+- Network Security & Threat Hunting
+- OSINT (Open Source Intelligence)
+
+I use this space to reflect, document, and apply what I've learned in both academic and practical contexts
+
 
 # CTF Categories 
 - **Forensics**
